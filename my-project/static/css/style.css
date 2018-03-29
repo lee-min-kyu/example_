@@ -18,7 +18,7 @@ mark, rp, rt, ruby, summary, time {
 }
 /* Global properties */
 body {
-  background:url(../images/bg_top2.jpg) top repeat-x #fff;
+  background:url(http://www.androidjava.com/images/bg_top2.jpg) top repeat-x #fff;
   border:0;
   font:14px Tahoma, Geneva, sans-serif;
   color:#4c4c4c;
@@ -50,10 +50,10 @@ body {
 /* Global Structure */
 .main {
   margin:0 auto;
-  width:980px
+  width:980px;
 }
 .body1 {
-  background:url(../images/bg_top_img2.jpg) top center no-repeat
+  background:url(http://www.androidjava.com/images/bg_top_img2.jpg) top center no-repeat;
 }
 .body2 {
   background:#f2f2f2
@@ -100,12 +100,12 @@ header {
 }
 #logo {
   display:block;
-  background:url(../images/jaen_logo3.png) no-repeat;
+  background:url(http://www.androidjava.com/images/jaen_logo3.png) no-repeat;
   width:273px;
   /*   	width:300px;   */
   /* 	height:115px;	 */
   height:84px;
-  text-indent:-9999px
+  text-indent:-9999px;
 }s
  #menu {
    float:left;
@@ -114,7 +114,7 @@ header {
 #menu li {
   float:left;
   padding-right:17px;
-  background:url(../images/menu_line.jpg) right 0 no-repeat;
+  background:url(http://www.androidjava.com/images/menu_line.jpg) right 0 no-repeat;
   margin-right:15px
 }
 #menu .end {
@@ -124,10 +124,10 @@ header {
   display:block;
   font-size:15px;
   color:#fff;
-  line-height:36px;
+  /*line-height:36px;*/
   text-transform:uppercase;
   text-decoration:none;
-  height:40px
+  height:40px;
 }
 #menu li a:hover, #menu #menu_active a {
   color:#44fbfe
@@ -150,7 +150,7 @@ header {
   padding-left:11px
 }
 #slogan {
-  background:url(../images/top_line2.gif) 0 0 no-repeat;
+  background:url(http://www.androidjava.com/images/top_line2.gif) 0 0 no-repeat;
   font-size:46px;
   color:#002b3a;
   line-height:1.2em;
@@ -265,17 +265,17 @@ header {
 .button {
   display:inline-block;
   color:#fff;
-  background:url(../images/button1_bg.gif) 0 0 repeat-x;
+  background:url(http://www.androidjava.com/images/button1_bg.gif) 0 0 repeat-x;
   line-height:40px;
   text-decoration:none;
   cursor:pointer
 }
 .button span {
   display:block;
-  background:url(../images/button1_left.gif) 0 0 no-repeat
+  background:url(http://www.androidjava.com/images/button1_left.gif) 0 0 no-repeat
 }
 .button span span {
-  background:url(../images/button1_right.gif) top right no-repeat;
+  background:url(http://www.androidjava.com/images/button1_right.gif) top right no-repeat;
   padding:0 25px;
   height:42px
 }
@@ -296,7 +296,7 @@ header {
 }
 .list1 li a {
   display:inline-block;
-  background:url(../images/marker_1.gif) 0 2px no-repeat;
+  background:url(http://www.androidjava.com/images/marker_1.gif) 0 2px no-repeat;
   padding-left:48px;
   color:#363636;
   font-weight:bold;
@@ -317,7 +317,7 @@ header {
   color:#4c4c4c;
   text-decoration:none;
   padding-left:10px;
-  background:url(../images/marker_3.gif) 0 6px no-repeat
+  background:url(http://www.androidjava.com/images/marker_3.gif) 0 6px no-repeat
 }
 .list2 li a:hover {
   color:#0055a2;
@@ -330,7 +330,7 @@ header {
 }
 .list3 li a {
   color:#0055a2;
-  background:url(../images/marker_3.gif) 0 -17px no-repeat;
+  background:url(http://www.androidjava.com/images/marker_3.gif) 0 -17px no-repeat;
   padding-left:10px
 }
 .list3 li a:hover {
@@ -341,7 +341,7 @@ header {
   float:left;
   width:72px;
   height:50px;
-  background:url(../images/date.gif) 0 0 no-repeat;
+  background:url(http://www.androidjava.com/images/date.gif) 0 0 no-repeat;
   margin-right:14px;
   font-size:34px;
   line-height:1.2em;
@@ -356,7 +356,7 @@ header {
 }
 .quot {
   padding-left:42px;
-  background:url(../images/quot.gif) 0 4px no-repeat;
+  background:url(http://www.androidjava.com/images/quot.gif) 0 4px no-repeat;
   overflow:hidden
 }
 .quot span {
@@ -426,19 +426,19 @@ footer a:hover {
 }
 #newsletter .button {
   float:right;
-  background-image:url(../images/button2_bg.gif);
+  background-image:url(http://www.androidjava.com/images/button2_bg.gif);
   font:14px Tahoma, Geneva, sans-serif;
   line-height:40px
 }
 #newsletter .button span {
-  background-image:url(../images/button2_left.gif)
+  background-image:url(http://www.androidjava.com/images/button2_left.gif)
 }
 #newsletter .button span span {
-  background-image:url(../images/button2_right.gif)
+  background-image:url(http://www.androidjava.com/images/button2_right.gif)
 }
 #newsletter .button strong {
   padding-right:14px;
-  background:url(../images/marker_2.gif) right 17px no-repeat;
+  background:url(http://www.androidjava.com/images/marker_2.gif) right 17px no-repeat;
   font-weight:normal;
   display:block
 }
@@ -537,32 +537,32 @@ footer a:hover {
 }
 
 .lge {
-  background-image: url('../media/lge.jpg');
+  background-image: url('http://www.androidjava.com//media/lge.jpg');
 }
 
 .lgcns {
-  background-image: url(../media/LGCNS.png);
+  background-image: url(http://www.androidjava.com//media/LGCNS.png);
 }
 
 .sec {
-  background-image: url(../media/sec.png);
+  background-image: url(http://www.androidjava.com//media/sec.png);
 }
 
 .rapa {
-  background-image: url(../media/rapa.jpg);
+  background-image: url(http://www.androidjava.com//media/rapa.jpg);
 }
 
 .sds {
-  background-image: url('../media/sds.gif');
+  background-image: url('http://www.androidjava.com//media/sds.gif');
   background-size: auto;
 }
 
 .mds {
-  background-image: url('../media/mds.jpg');
+  background-image: url('http://www.androidjava.com/media/mds.jpg');
 }
 
 .atcamp {
-  background-image: url('../media/atcamp.gif');
+  background-image: url('http://www.androidjava.com/media/atcamp.gif');
 }
 
 /* course */
